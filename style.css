@@ -291,16 +291,14 @@
     flex-wrap: nowrap;
     margin: 0 auto;
 }
-.products {
-    padding: 15px;
-}
 
 .products {
     font-family: 'Open Sans';
     font-size: 22px;
     line-height: 24px;
-       
-    /* display: flex; */
+    padding: 15px; 
+    font-style: italic;
+    font-weight: 600;
     align-items: center;
     letter-spacing: 0.22px;
     text-transform: uppercase;
