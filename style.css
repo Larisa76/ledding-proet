@@ -748,6 +748,7 @@
     letter-spacing: 0.317046px;
     text-transform: uppercase;
     color: #FFFFFF;
+    display: flex;
 }
 
 .feedback_blok_black {
