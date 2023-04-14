@@ -34,6 +34,7 @@
 } 
 
 .let:hover {
+    min-height: 89px;
     max-width: 90px;
     background-color: #FF3F40;
 }
